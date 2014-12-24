@@ -1,0 +1,21 @@
+C:\Users\Anthony\Documents\Visual Studio 2013\Projects\_MVVM\MVVM Techdays\MVVM Techdays\bin\Debug\MVVM Techdays.exe.config
+C:\Users\Anthony\Documents\Visual Studio 2013\Projects\MVVM-Example\MVVM Techdays\bin\Debug\MVVM Techdays.exe.config
+C:\Users\Anthony\Documents\Visual Studio 2013\Projects\MVVM-Example\MVVM Techdays\bin\Debug\MVVM Techdays.exe
+C:\Users\Anthony\Documents\Visual Studio 2013\Projects\MVVM-Example\MVVM Techdays\bin\Debug\MVVM Techdays.pdb
+C:\Users\Anthony\Documents\Visual Studio 2013\Projects\MVVM-Example\MVVM Techdays\obj\Debug\MVVM Techdays.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\Documents\Visual Studio 2013\Projects\MVVM-Example\MVVM Techdays\obj\Debug\Helpers\ModalWindow.baml
+C:\Users\Anthony\Documents\Visual Studio 2013\Projects\MVVM-Example\MVVM Techdays\obj\Debug\View\MainView.baml
+C:\Users\Anthony\Documents\Visual Studio 2013\Projects\MVVM-Example\MVVM Techdays\obj\Debug\Helpers\ModalWindow.g.cs
+C:\Users\Anthony\Documents\Visual Studio 2013\Projects\MVVM-Example\MVVM Techdays\obj\Debug\View\AjouterProduitView.g.cs
+C:\Users\Anthony\Documents\Visual Studio 2013\Projects\MVVM-Example\MVVM Techdays\obj\Debug\View\MainView.g.cs
+C:\Users\Anthony\Documents\Visual Studio 2013\Projects\MVVM-Example\MVVM Techdays\obj\Debug\App.g.cs
+C:\Users\Anthony\Documents\Visual Studio 2013\Projects\MVVM-Example\MVVM Techdays\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Anthony\Documents\Visual Studio 2013\Projects\MVVM-Example\MVVM Techdays\obj\Debug\MVVM Techdays_MarkupCompile.cache
+C:\Users\Anthony\Documents\Visual Studio 2013\Projects\MVVM-Example\MVVM Techdays\obj\Debug\MVVM Techdays_MarkupCompile.lref
+C:\Users\Anthony\Documents\Visual Studio 2013\Projects\MVVM-Example\MVVM Techdays\obj\Debug\App.baml
+C:\Users\Anthony\Documents\Visual Studio 2013\Projects\MVVM-Example\MVVM Techdays\obj\Debug\View\AjouterProduitView.baml
+C:\Users\Anthony\Documents\Visual Studio 2013\Projects\MVVM-Example\MVVM Techdays\obj\Debug\MVVM Techdays.g.resources
+C:\Users\Anthony\Documents\Visual Studio 2013\Projects\MVVM-Example\MVVM Techdays\obj\Debug\MVVM_Techdays.Properties.Resources.resources
+C:\Users\Anthony\Documents\Visual Studio 2013\Projects\MVVM-Example\MVVM Techdays\obj\Debug\MVVM Techdays.csproj.GenerateResource.Cache
+C:\Users\Anthony\Documents\Visual Studio 2013\Projects\MVVM-Example\MVVM Techdays\obj\Debug\MVVM Techdays.exe
+C:\Users\Anthony\Documents\Visual Studio 2013\Projects\MVVM-Example\MVVM Techdays\obj\Debug\MVVM Techdays.pdb

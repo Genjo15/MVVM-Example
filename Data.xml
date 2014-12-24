@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Produits>
+	<Produit Nom="Produit 1" Categorie="Categorie 1" QuantiteDispo="50" QuantiteCommande="10" />
+	<Produit Nom="Produit 2" Categorie="Categorie 2" QuantiteDispo="20" QuantiteCommande="3" />
+	<Produit Nom="Produit 3" Categorie="Categorie 3" QuantiteDispo="30" QuantiteCommande="15" />
+</Produits>

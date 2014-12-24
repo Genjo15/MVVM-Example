@@ -1,0 +1,14 @@
+﻿<Application x:Class="MVVM_Techdays.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:v="clr-namespace:MVVM_Techdays.View"
+             xmlns:vm="clr-namespace:MVVM_Techdays.ViewModel"
+             StartupUri="View/MainView.xaml">
+    <Application.Resources>
+        <!-- Systeme de datatemplate implicite -->
+        <!-- "A chaque fois que tu rencontre un objet de type AjouterProduitViewModel", l'afficher avec le controle AjouterProduitView -->
+        <DataTemplate DataType="{x:Type vm:AjouterProduitViewModel}">
+            <v:AjouterProduitView/>
+        </DataTemplate>
+    </Application.Resources>
+</Application>

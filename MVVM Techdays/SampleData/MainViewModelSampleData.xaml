@@ -1,0 +1,14 @@
+﻿<ViewModel:MainViewModel xmlns:ViewModel="clr-namespace:MVVM_Techdays.ViewModel" xmlns:Model="clr-namespace:MVVM_Techdays.Model">
+	<ViewModel:MainViewModel.Produits>
+		<Model:Produit Categorie="Sed dis adipiscing parturient class" Nom="Nam maecenas vestibulum cras aenean" QuantiteCommande="82" QuantiteDispo="92"/>
+		<Model:Produit Categorie="Nunc est quisque" Nom="Duis aliquam praesent integer" QuantiteCommande="52" QuantiteDispo="71"/>
+		<Model:Produit Categorie="Vestibulum accumsan aliquet hac leo" Nom="Vivamus amet mauris curabitur aliquam" QuantiteCommande="77" QuantiteDispo="83"/>
+		<Model:Produit Categorie="Etiam blandit mus ante phasellus" Nom="Bibendum curae dictumst donec" QuantiteCommande="91" QuantiteDispo="61"/>
+		<Model:Produit Categorie="Nullam consequat" Nom="Fusce commodo" QuantiteCommande="14" QuantiteDispo="21"/>
+		<Model:Produit Categorie="Vestibulum cubilia auctor non adipiscing" Nom="Eleifend conubia nec aptent" QuantiteCommande="95" QuantiteDispo="66"/>
+		<Model:Produit Categorie="Arcu dapibus" Nom="Parturient per facilisi" QuantiteCommande="15" QuantiteDispo="43"/>
+		<Model:Produit Categorie="Convallis lorem faucibus" Nom="Congue cursus" QuantiteCommande="45" QuantiteDispo="25"/>
+		<Model:Produit Categorie="Vestibulum adipiscing" Nom="Morbi vestibulum dictum habitant nulla" QuantiteCommande="20" QuantiteDispo="89"/>
+		<Model:Produit Categorie="Lectus libero" Nom="Sed inceptos" QuantiteCommande="26" QuantiteDispo="23"/>
+	</ViewModel:MainViewModel.Produits>
+</ViewModel:MainViewModel>
